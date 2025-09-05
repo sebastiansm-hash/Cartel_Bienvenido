@@ -1,2 +1,12 @@
 print(¨Bienvenidos a python🐍¨)
 print(¨######Cartel 6°B######¨)
+PRINT("######programando######")
+print("######ESTUDIANDO######")
+print("######APRENDIENDO######")
+print("#SE CREARAN PROYECTOS#"#
+print("☆*: .｡. o(≧▽≦)o .｡.:*")
+print("#                      #")
+print(" ##LA FRASE DEL DIA ES##")
+print("EL CONOCIMIENTO ES PODER🌟")
+print("ENTONCES APLIQUESMOLO👌")
+print("BIENVENIDO CICLO 2025-2026😁")
